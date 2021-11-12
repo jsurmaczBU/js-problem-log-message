@@ -12,3 +12,4 @@ Call the following in your JS file to test your progress.
 ## Resources
 - [javascript.info conditional branching](https://javascript.info/ifelse)
 - [javascript.info function basics](https://javascript.info/function-basics)
+- [MDN typeof operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
