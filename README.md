@@ -1,1 +1,14 @@
-# js-problem-log-message
+# JS Problem 1: logMessage
+
+Write a function named `logMessage` that accepts two arguments: `name` and `msg`. The function body should log output to the console using the `console.log` function. In order for the function to work properly, both arguments must be of the type string. You can check for this using conditional branching (`if/else`) and the `typeof` operator. There is no HTML or CSS for this assignment. All output is called from your JS file and logged to the browser console.
+
+## Tests
+Call the following in your JS file to test your progress.
+1. `logMessage("Amanda", "Good-bye")` output --> "Amanda: Good-bye"
+2. `logMessage(4, "Good-bye)` output --> "name is not a string." 
+3. `logMessage("Amanda", 4)` output --> "msg is not a string."
+4. `logMessage(4, 4)` output --> "Neither name nor msg is a string."
+
+## Resources
+- [javascript.info conditional branching](https://javascript.info/ifelse)
+- [javascript.info function basics](https://javascript.info/function-basics)
